@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "unity": "6000.3",
   "unityRelease": "1f1",
-  "description": "Scriptable Tools is a lightweight ScriptableObject-oriented architecture toolkit for Unity.\\n\\u25AA Scriptable Variables (constant-or-variable references)\\n\\u25AA Scriptable Events (Inspector-wired broadcasts)\\n\\u25AA Runtime Sets (live collections)\\n\\u25AA Relays & listeners (react to state changes)\\nBuild decoupled, designer-friendly systems with minimal overhead.",
+  "description": "Scriptable Tools is a lightweight ScriptableObject-oriented architecture toolkit for Unity.\n\u25aa Scriptable Variables (constant-or-variable references)\n\u25aa Scriptable Events (Inspector-wired broadcasts)\n\u25aa Runtime Sets (live collections)\n\u25aa Relays & listeners (react to state changes)\nBuild decoupled, designer-friendly systems with minimal overhead.",
   "author": {
     "name": "Gabriel de Souza",
     "url": "https://gabisou.com/",
